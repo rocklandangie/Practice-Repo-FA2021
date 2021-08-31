@@ -1,14 +1,14 @@
-## Student Name (or name you would preferred to be called)
+Name:Angelina Delorenzo
 
-### Fall 2021
+Fall 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Calc 1
 
-- Course 2
+- Intro to python
 
-- Course 3
+- Intro to data science
 
 - Course 4
 
@@ -16,12 +16,11 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 I am _passionate about_: 
 
-- Thing 1
+- Anime
 
-- Thing 2
-
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Zero two
+- Mechnical engineering  <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/08/31
